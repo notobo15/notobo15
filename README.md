@@ -1,54 +1,125 @@
-- 👋 Hi, I’m @notobo15
-- 👀 I’m interested in Coding, Sleeping, Eating
+# 👋 Hey there, I'm Nguyen Thanh Binh, also known as notobo!
+
+## My goal is to become a Full-Stack Developer 💪.
+
+- 🌍 I'm based in Ho Chi Minh City, Viet Nam ![Vietnam](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png "Vietnam")
+- 🖥️ See my portfolio at [notobo-cv.vercel.app](https://notobo-cv.vercel.app/)
+- 👀 I'm passionate about coding, sleeping, and eating.
 - 🌱 I’m currently learning SGU University
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
+## Skills 🖥️
 
-<span><img src="https://img.shields.io/badge/CShape-282C34?logo=csharp&logoColor=512BD4" alt="" title="C #" height="25" /></span>
-&nbsp;
+### Front End:
 
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
+<p align="left">
+  <a href="https://html5.org/" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="46" height="46"
+      alt="HTML5" /></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="46" height="46"
+      alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="46"
+      height="46" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="46"
+      height="46" alt="TypeScript" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="46" height="46"
+      alt="React" /></a>
+  <a href="https://nextjs.org/docs" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="46" height="46"
+      alt="NextJs" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="46"
+      height="46" alt="Bootstrap" /></a>
+  <a href="https://sass-lang.com/" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="46" height="46"
+      alt="Sass" /></a>
+  <a href="https://jquery.com/" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="46" height="46"
+      alt="jQuery" /></a>
+  <a href="https://github.com/axios/axios" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="46" height="46"
+      alt="Axios" /></a>
+  <a href="https://lodash.com/" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lodash/lodash-original.svg" width="46" height="46"
+      alt="Lodash" /></a>
+
+### Back End:
+
+  <p align="left">
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="46"
+        height="46" alt="C#" /></a>
+    <a href="" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="46"
+        height="46" alt=".NET Core" /></a>
+      <a href="https://example.com" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="46"
+        height="46" alt="Blazor"></a>
+    <a href="https://example.com" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="46" height="46"
+        alt="MySQL"></a>
+    <a href="https://example.com" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+        width="46" height="46" alt="Microsoft SQL Server"></a>
+
+  </p>
+  
+### More Orders:
+
+  <p align="left">
+    <a href="https://www.php.net/" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="46" height="46"
+        alt="PHP"></a>
+    <a href="https://www.oracle.com/java/" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="46" height="46"
+        alt="Java" /></a>
+    <a href="https://spring.io/" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="46"
+        height="46" alt="Spring"></a>
+    <a href="https://www.python.org/" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="46"
+        height="46" alt="Python"></a>
+    <a href="https://example.com" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="46" height="46"
+        alt="Django"></a>
+
+  </p>
+
+## Tools 🛠️
+
+  <p align="left">
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="46" height="46"
+        alt="Git" /></a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="46"
+        height="46" alt="GitHub" /></a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
+        width="46" height="46" alt="Visual Studio"></a>
+    <a href="https://www.postman.com/" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="46"
+        height="46" alt="Postman"></a>
+    <a href="https://www.linux.org/" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="46" height="46"
+        alt="Linux"></a>
+    <a href="https://example.com" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="46"
+        height="46" alt="Docker"></a>
+    <a href="https://gitlab.com" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="46"
+        height="46" alt="GitLab"></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="46"
+        height="46" alt="Visual Studio Code"></a>
+
+  </p>
+
+## GitHub Stats 🔥
+
 <div align=center>
   <a href="#" title="">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notobo15&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -58,3 +129,13 @@
   </a>
 </div>
 
+## Socials
+
+<p align="left"> 
+ <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="46" height="46" /></a>
+ <a href="" target="_blank"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail" width="50" /></a>
+</p>
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=notobo15.notobo15" />
+</p>
