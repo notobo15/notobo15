@@ -1,9 +1,12 @@
-# 👋 Hey there, I'm Nguyen Thanh Binh, also known as notobo!
+# Hey there, I'm Nguyen Thanh Binh 👋!
 
 ## My goal is to become a Full-Stack Developer 💪.
 
+Writing high-quality code using best development practices.
+
 - 🌍 I'm based in Ho Chi Minh City, Viet Nam ![Vietnam](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png "Vietnam")
 - 🖥️ See my portfolio at [notobo-cv.vercel.app](https://notobo-cv.vercel.app/)
+- ✉️ Contact me at [binh15122003@gmail.com](mailto:binh15122003@gmail.com) or [Linkedin](https://www.linkedin.com/)
 - 👀 I'm passionate about coding, sleeping, and eating.
 - 🌱 I’m currently learning SGU University
 
@@ -129,12 +132,6 @@
   </a>
 </div>
 
-## Socials
-
-<p align="left"> 
- <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="46" height="46" /></a>
- <a href="" target="_blank"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail" width="50" /></a>
-</p>
 
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=notobo15.notobo15" />
