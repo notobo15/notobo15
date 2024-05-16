@@ -10,6 +10,10 @@ Writing high-quality code using best development practices.
 - 👀 I'm passionate about coding, sleeping, and eating.
 - 🌱 I’m currently learning SGU University
 
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=notobo15.notobo15" />
+</p>
+
 ## Skills 🖥️
 
 ### Front End:
@@ -131,8 +135,3 @@ Writing high-quality code using best development practices.
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=notobo15&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
-
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=notobo15.notobo15" />
-</p>
