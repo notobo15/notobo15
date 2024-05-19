@@ -16,7 +16,7 @@ Writing high-quality code using best development practices.
 
 ## Skills 🖥️
 
-### Front End:
+### Front-End:
 
 <p align="left">
   <a href="https://html5.org/" target="_blank"><img
@@ -53,7 +53,7 @@ Writing high-quality code using best development practices.
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lodash/lodash-original.svg" width="46" height="46"
       alt="Lodash" /></a>
 
-### Back End:
+### Back-End:
 
   <p align="left">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img
@@ -62,7 +62,7 @@ Writing high-quality code using best development practices.
     <a href="" target="_blank"><img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="46"
         height="46" alt=".NET Core" /></a>
-      <a href="https://example.com" target="_blank"><img
+    <a href="https://example.com" target="_blank"><img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="46"
         height="46" alt="Blazor"></a>
     <a href="https://example.com" target="_blank"><img
@@ -74,7 +74,7 @@ Writing high-quality code using best development practices.
 
   </p>
   
-### More Orders:
+### More:
 
   <p align="left">
     <a href="https://www.php.net/" target="_blank"><img
