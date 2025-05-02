@@ -4,7 +4,7 @@
 💼 Aspiring **Full-Stack Developer** | Passionate about clean code, UI/UX, and solving real-world problems  
 📍 Ho Chi Minh City, Viet Nam  
 📧 [binh15122003@gmail.com](mailto:binh15122003@gmail.com)  
-🔗 [Portfolio]([https://notobo-cv.vercel.app](https://portfolio-five-psi-27.vercel.app/)) • [LinkedIn](https://linkedin.com/in/binhdev) • [GitHub](https://github.com/notobo15)
+🔗 [Portfolio](https://portfolio-five-psi-27.vercel.app) • [LinkedIn](https://linkedin.com/in/binhdev) • [GitHub](https://github.com/notobo15)
 
 ---
 
