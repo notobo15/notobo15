@@ -34,7 +34,7 @@ I'm currently looking for a **long-term fresher opportunity** to grow in a profe
 
 ### 🌐 Languages
 - **English** – Intermediate (TOEIC 700/990).
-  → Strong reading comprehension and basic communication for tech collaboration.
+- Strong reading comprehension and basic communication for tech collaboration.
 
 ### 📚 Soft Skills
 - 🤝 Collaborative and approachable with a positive and energetic attitude  
@@ -55,13 +55,3 @@ I'm currently looking for a **long-term fresher opportunity** to grow in a profe
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=notobo15.notobo15" />
 </p>
-
-
----
-
-## 🤝 Let's Connect
-
-Feel free to reach out if you'd like to collaborate, ask questions, or just say hi!  
-📫 **[binh15122003@gmail.com](mailto:binh15122003@gmail.com)**  
-🌐 **[notobo-cv.vercel.app](https://notobo-cv.vercel.app)**  
-🔗 **[linkedin.com/in/binhdev](https://linkedin.com/in/binhdev)**
