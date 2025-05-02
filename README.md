@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Nguyen Thanh Binh
+# 👋 Hi, I'm Nguyen Thanh Binh
 
 🎓 Final-year Software Engineering student at **Sai Gon University**  
 💼 Aspiring **Full-Stack Developer** | Passionate about clean code, UI/UX, and solving real-world problems  
