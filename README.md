@@ -33,7 +33,7 @@ I'm currently looking for a **long-term fresher opportunity** to grow in a profe
 - Familiar with RESTful API, MVC architecture, OOP, and SOLID principles.
 
 ### 🌐 Languages
-- **English** – Intermediate (TOEIC 700/990).
+- **English** – Intermediate.
 - Strong reading comprehension and basic communication for tech collaboration.
 
 ### 📚 Soft Skills
