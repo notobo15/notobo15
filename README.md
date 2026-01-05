@@ -46,49 +46,31 @@ I am seeking a **long-term Fresher / Junior Java Backend Developer** position to
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img
-    width="420"
-    src="https://github-readme-stats.vercel.app/api?username=notobo15&show_icons=true&theme=react&hide_border=true&border_color=61dafb&include_all_commits=true&count_private=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
-  <img
-    width="360"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=notobo15&theme=react&hide_border=true&border_color=61dafb&layout=compact&langs_count=10&hide=cs,objective-c,objective-c%2B%2B,mathematica,ruby,powershell,cuda"
-    alt="Top Languages"
-  />
+  <img width="420"
+    src="https://github-readme-stats.vercel.app/api?username=notobo15&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;border_color=61dafb&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github"
+    alt="GitHub Stats" />
+  <img width="360"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=notobo15&amp;theme=react&amp;hide_border=true&amp;border_color=61dafb&amp;layout=compact&amp;langs_count=10&amp;hide=cs,objective-c,objective-c%2B%2B,mathematica,ruby,powershell,cuda"
+    alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    width="780"
-    src="https://streak-stats.demolab.com?user=notobo15&theme=react&hide_border=true&border_radius=10"
-    alt="GitHub Streak"
-  />
+  <img width="780"
+    src="https://streak-stats.demolab.com?user=notobo15&amp;theme=react&amp;hide_border=true&amp;border_radius=10"
+    alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img
-    width="780"
-    src="https://github-profile-trophy.vercel.app/?username=notobo15&theme=onedark&no-frame=true&row=1&column=7"
-    alt="Trophies"
-  />
+  <img width="780"
+    src="https://github-profile-trophy.vercel.app/?username=notobo15&amp;theme=onedark&amp;no-frame=true&amp;row=1&amp;column=7"
+    alt="Trophies" />
 </p>
 
 <p align="center">
-  <img
-    width="780"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=notobo15&theme=react-dark&hide_border=true&radius=10"
-    alt="Activity Graph"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="780"
-    src="https://github.com/notobo15/notobo15/blob/main/github-metrics.svg"
-    alt="Metrics"
-  />
-</p>
+  <img width="780"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=notobo15&amp;theme=react-dark&amp;hide_border=true&amp;radius=10"
+    alt="Activity Graph" />
+</p>>
 
 
 <p align="left">
