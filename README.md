@@ -46,8 +46,48 @@ I am seeking a **long-term Fresher / Junior Java Backend Developer** position to
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=notobo15&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notobo15&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img
+    width="420"
+    src="https://github-readme-stats.vercel.app/api?username=notobo15&show_icons=true&theme=react&hide_border=true&border_color=61dafb&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
+  <img
+    width="360"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=notobo15&theme=react&hide_border=true&border_color=61dafb&layout=compact&langs_count=10&hide=cs,objective-c,objective-c%2B%2B,mathematica,ruby,powershell,cuda"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="780"
+    src="https://streak-stats.demolab.com?user=notobo15&theme=react&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="780"
+    src="https://github-profile-trophy.vercel.app/?username=notobo15&theme=onedark&no-frame=true&row=1&column=7"
+    alt="Trophies"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="780"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=notobo15&theme=react-dark&hide_border=true&radius=10"
+    alt="Activity Graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="780"
+    src="https://github.com/notobo15/notobo15/blob/main/github-metrics.svg"
+    alt="Metrics"
+  />
 </p>
 
 
