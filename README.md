@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Nguyen Thanh Binh
 
-🎓 Final-year Software Engineering student at **Sai Gon University**  
-💼 Aspiring **Full-Stack Developer** | Passionate about clean code, UI/UX, and solving real-world problems  
-📍 Ho Chi Minh City, Viet Nam  
-📧 [binh15122003@gmail.com](mailto:binh15122003@gmail.com)  
-🔗 [Portfolio](https://portfolio-five-psi-27.vercel.app) • [LinkedIn](https://linkedin.com/in/binhdev) • [GitHub](https://github.com/notobo15)
+**💼 Fresher Java Backend Developer**  
+**🎓 Software Engineering – Sai Gon University**  
+**📍 Ho Chi Minh City, Viet Nam**
 
 ---
 
 ## 🧠 About Me
 
-As a final-year student majoring in Software Engineering, I have a solid foundation in both front-end and back-end development. My core tech stack includes **ASP.NET (C#)** and **React/Next.js**. I love building clean, responsive, and real-world web applications.
+I am a **Fresher Java Backend Developer** with hands-on experience in enterprise-level projects, including **Distribution Management Systems (DMS)** for clients such as **Abbott**, **Vinamilk**.
 
-I'm currently looking for a **long-term fresher opportunity** to grow in a professional environment, contribute to real projects, and become a valuable part of the development team.
+I specialize in **Java** and **Spring Framework**, building **RESTful APIs**, **MVC**, handling business logic, and working with **Oracle Database** and **MySQL**. I focus on writing clean, maintainable code, designing scalable backend systems, and following **OOP** and **SOLID** principles.
+
+I am seeking a **long-term Fresher / Junior Java Backend Developer** position to grow in a professional environment and contribute to real-world products.
 
 ---
 
@@ -42,7 +42,6 @@ I'm currently looking for a **long-term fresher opportunity** to grow in a profe
 - 🎯 Able to work independently with high responsibility and focus  
 - 💬 Open-minded, willing to share knowledge and receive feedback constructively  
 
----
 
 ## 📈 GitHub Stats
 
@@ -55,3 +54,4 @@ I'm currently looking for a **long-term fresher opportunity** to grow in a profe
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=notobo15.notobo15" />
 </p>
+
