@@ -10,7 +10,7 @@
 
 I am a **Fresher Java Backend Developer** with hands-on experience in enterprise-level projects, including **Distribution Management Systems (DMS)** for clients such as **Abbott**, **Vinamilk**.
 
-I specialize in **Java** and **Spring Framework**, building **RESTful APIs**, **MVC**, handling business logic, and working with **Oracle Database** and **MySQL**. I focus on writing clean, maintainable code, designing scalable backend systems, and following **OOP** and **SOLID** principles.
+I specialize in **Java** and **Spring Framework**, building **RESTful APIs** , MVC, handling business logic, and working with **Oracle Database** and **MySQL**. I focus on writing clean, maintainable code, designing scalable backend systems
 
 I am seeking a **long-term Fresher / Junior Java Backend Developer** position to grow in a professional environment and contribute to real-world products.
 
@@ -19,11 +19,11 @@ I am seeking a **long-term Fresher / Junior Java Backend Developer** position to
 ## 🛠️ Skills
 
 ### 🎯 Programming Languages
-- C#, Java, Node.js, TypeScript, Python, PHP
+- Java, C#
 - Understanding of modern front-end technologies such as React, Next.js and styling with Tailwind CSS.
 
 ### 🗄️ Databases
-- Microsoft SQL Server, MySQL  
+- Oracle, MySQL  
 - Experienced with SQL optimization, indexing, and replication.
 
 ### ⚙️ Tools
